@@ -4,7 +4,7 @@
 
 <h2>
     <?php
-    $numero = 5; // Cambia este valor por el que quieras calcular
+    $numero = 6; // Cambia este valor por el que quieras calcular
 
     echo "<h3>Tabla de multiplicar del $numero</h3>";
     echo "</br>";
