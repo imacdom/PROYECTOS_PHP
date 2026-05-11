@@ -5,7 +5,7 @@
 <h2>
     <?php
 
-        $variable =  20;
+        $variable =  2;
         $output = "La variable es ";
 
         if($variable == 20){
@@ -13,6 +13,7 @@
         }else{
             echo $output.="diferente de 20"; // El .= es una forma de concatenar cambiado la propia variable
         }
+
     
     ?>
 
