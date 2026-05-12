@@ -6,7 +6,7 @@
     <?php
 
         $variable =  2;
-        $output = "La variable es ";
+        $output = "La variable es ";    
 
         if($variable == 20){
             echo $output . $variable;
